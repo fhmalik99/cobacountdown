@@ -13,6 +13,7 @@ body {
 .hasCountdown {
 	background:none;
 	border:none;
+	height:50 px;
 }
 
 h1 {
